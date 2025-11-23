@@ -4,6 +4,8 @@ this is task during nirmaan 1st round of hiring
 AI Rubric Scorer – Self-Introduction Evaluation Tool
 ----------
 
+Deploy link : https://mshnirmaan-ai-rubric-scorer.streamlit.app/
+
 This project implements an AI-based scoring tool for evaluating students’ self-introduction transcripts. The goal is to analyze a spoken self-introduction (already transcribed to text) and generate a rubric-based score out of 100 along with per-criterion feedback.
 The scoring logic combines rule-based checks, NLP-based semantic similarity, and rubric-driven weighting. The rubric used for evaluation is taken from the Excel file provided in the case study.
 
