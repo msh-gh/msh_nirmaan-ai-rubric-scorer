@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+sentence-transformers
+scikit-learn
+nltk
+vaderSentiment
+requests
